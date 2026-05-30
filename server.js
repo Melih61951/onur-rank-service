@@ -56,7 +56,7 @@ function readId(resource) {
     return String(resource.id);
   }
 
-  return nil;
+return null;
 }
 
 async function getRoleResource(rankNumber) {
